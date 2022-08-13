@@ -27,7 +27,7 @@ There are two main types of automation available in Power Automate:
 
 ## Cloud-based digital process automation (DPA)
 
-You can use Power Automate to automate processes in over 380 applications by using API-based
+You can use Power Automate to automate processes in over 700 applications by using API-based
 connectors provided out of the box. Additionally,
 software engineers can create new, custom connectors to any application that has
 an *API* available. Modern applications (including cloud-based services) use APIs
